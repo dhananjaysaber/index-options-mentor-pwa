@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "Index Options Mentor",
+  "short_name": "Options Mentor",
+  "description": "Data-driven NIFTY options trading mentor with live FYERS market data and risk controls.",
+  "start_url": "./?source=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#edf2f8",
+  "theme_color": "#0b1220",
+  "categories": ["finance", "productivity"],
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
